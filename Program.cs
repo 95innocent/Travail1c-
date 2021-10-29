@@ -73,9 +73,41 @@ namespace ConsoleList
                     }
        
      //Les collections Generiques
+     //ArrayList
+      ArrayList numbers = new ArrayList();
+      numbers.Add(1); // int
+      numbers.Add(1.256); // float
+      numbers.Add("Innocent");
+      numbers.Add("Gentille");
+      numbers.Add("Felix");
+      numbers.Add("Pascal");
+      numbers.Add("Gretta");
+      numbers.Remove("Innocent");
+      numbers.RemoveAt(3); // String
+      numbers.Add('o'); //char
 
+      Console.WriteLine("----------------------------"); 
 
-    }
+            foreach (object number in numbers)  
+                    {  
+                    Console.WriteLine("{0}",number);  
+                    }
+     // Hastable
+     Hashtable langua = new Hashtable();  
+     langua.Add(1, "Java");  
+     langua.Add(2, "C#");  
+     langua.Add(3, "Python");  
+     langua.Add(4, "C");  
+     langua.Add(4, "MathLab");
+
+  
+            foreach (DictionaryEntry language in langua)  
+            {  
+            Console.WriteLine("Clé: {0}, Valeur: {1}", language.Key, language.Value);   
+            }  
+    
+ }
+   
         
-    }
+ }
 }
