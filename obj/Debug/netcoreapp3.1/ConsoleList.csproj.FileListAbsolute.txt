@@ -11,3 +11,16 @@ C:\Users\Admin\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.csproj.Co
 C:\Users\Admin\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.dll
 C:\Users\Admin\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.pdb
 C:\Users\Admin\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.genruntimeconfig.cache
+C:\Users\PC\Desktop\ConsoleList\bin\Debug\netcoreapp3.1\ConsoleList.exe
+C:\Users\PC\Desktop\ConsoleList\bin\Debug\netcoreapp3.1\ConsoleList.deps.json
+C:\Users\PC\Desktop\ConsoleList\bin\Debug\netcoreapp3.1\ConsoleList.runtimeconfig.json
+C:\Users\PC\Desktop\ConsoleList\bin\Debug\netcoreapp3.1\ConsoleList.runtimeconfig.dev.json
+C:\Users\PC\Desktop\ConsoleList\bin\Debug\netcoreapp3.1\ConsoleList.dll
+C:\Users\PC\Desktop\ConsoleList\bin\Debug\netcoreapp3.1\ConsoleList.pdb
+C:\Users\PC\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.AssemblyInfo.cs
+C:\Users\PC\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.dll
+C:\Users\PC\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.pdb
+C:\Users\PC\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.genruntimeconfig.cache

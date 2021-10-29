@@ -92,19 +92,40 @@ namespace ConsoleList
                     {  
                     Console.WriteLine("{0}",number);  
                     }
-     // Hastable
-     Hashtable langua = new Hashtable();  
-     langua.Add(1, "Java");  
-     langua.Add(2, "C#");  
-     langua.Add(3, "Python");  
-     langua.Add(4, "C");  
-     langua.Add(4, "MathLab");
+     
+     // queue
+          Queue lan = new Queue(); 
+            lan.Enqueue("Systemes embarques");  
+            lan.Enqueue("Automates programmables");  
+            lan.Enqueue("Reseau sans fil");  
+            lan.Enqueue("Administration des reseaux");
+            lan.Enqueue("Intelligence Artificielle");  
+            lan.Enqueue(" Console.WriteLine(o);Base de donnes3");  
+            lan.Enqueue(" Ingenieurie des systemes d'information Avancees");  
+            lan.Enqueue(" Marketing");
+            Console.WriteLine("------------------------------------");  
+            foreach (object n in lan)  
+            {
+            Console.WriteLine(n);
+            }
+        //Stack languages = new Stack();  
+               Stack universite = new Stack();  
+               universite.Push("Universite du Burundi");  
+               universite.Push("Universite du Lac Tanganyika");  
+               universite.Push("Universite Lumiere de bujumbura");  
+               universite.Push("Universite Martin Luther King");
+               universite.Push("Universite Sagesse d'Afrique");  
+               universite.Push("Universite des grands Lacs");  
+               universite.Push("Universite de NGOZI"); 
+               Console.WriteLine("------------------------------------"); 
+               foreach (object uni in universite)  
+               {
+               Console.WriteLine(uni);
+               }
+        //Hastable
+           
 
-  
-            foreach (DictionaryEntry language in langua)  
-            {  
-            Console.WriteLine("Clé: {0}, Valeur: {1}", language.Key, language.Value);   
-            }  
+
     
  }
    
