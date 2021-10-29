@@ -74,26 +74,26 @@ namespace ConsoleList
        
      //Les collections Generiques
      //ArrayList
-      ArrayList numbers = new ArrayList();
-      numbers.Add(1); // int
-      numbers.Add(1.256); // float
-      numbers.Add("Innocent");
-      numbers.Add("Gentille");
-      numbers.Add("Felix");
-      numbers.Add("Pascal");
-      numbers.Add("Gretta");
-      numbers.Remove("Innocent");
-      numbers.RemoveAt(3); // String
-      numbers.Add('o'); //char
+               ArrayList numbers = new ArrayList();
+               numbers.Add(1); // int
+               numbers.Add(1.256); // float
+               numbers.Add("Innocent");
+               numbers.Add("Gentille");
+               numbers.Add("Felix");
+               numbers.Add("Pascal");
+               numbers.Add("Gretta");
+               numbers.Remove("Innocent");
+               numbers.RemoveAt(3); // String
+               numbers.Add('o'); //char
 
-      Console.WriteLine("----------------------------"); 
+               Console.WriteLine("----------------------------"); 
 
-            foreach (object number in numbers)  
-                    {  
-                    Console.WriteLine("{0}",number);  
-                    }
-     
-     // queue
+                     foreach (object number in numbers)  
+                           {  
+                           Console.WriteLine("{0}",number);  
+                           }
+            
+            // queue
           Queue lan = new Queue(); 
             lan.Enqueue("Systemes embarques");  
             lan.Enqueue("Automates programmables");  
