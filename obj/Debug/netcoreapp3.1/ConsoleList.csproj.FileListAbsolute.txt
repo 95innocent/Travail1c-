@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\ConsoleList\bin\Debug\netcoreapp3.1\ConsoleList.exe
+C:\Users\Admin\Desktop\ConsoleList\bin\Debug\netcoreapp3.1\ConsoleList.deps.json
+C:\Users\Admin\Desktop\ConsoleList\bin\Debug\netcoreapp3.1\ConsoleList.runtimeconfig.json
+C:\Users\Admin\Desktop\ConsoleList\bin\Debug\netcoreapp3.1\ConsoleList.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ConsoleList\bin\Debug\netcoreapp3.1\ConsoleList.dll
+C:\Users\Admin\Desktop\ConsoleList\bin\Debug\netcoreapp3.1\ConsoleList.pdb
+C:\Users\Admin\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.dll
+C:\Users\Admin\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.pdb
+C:\Users\Admin\Desktop\ConsoleList\obj\Debug\netcoreapp3.1\ConsoleList.genruntimeconfig.cache
