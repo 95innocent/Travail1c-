@@ -64,7 +64,8 @@ namespace ConsoleList
           Cours.Add(1, "Programmation web");  
           Cours.Add(2, "Base de donnees2");  
           Cours.Add(3, "Ingenieurie des logiciels");  
-          Cours.Add(4, "Intelligence Artificielle");  
+          Cours.Add(4, "Intelligence Artificielle"); 
+          Cours.Add(5, "Automates programmables"); 
           Console.WriteLine("Liste des Cours avec SortedList");
                     foreach (KeyValuePair<int, string> nomcours in Cours)  
                     {  
